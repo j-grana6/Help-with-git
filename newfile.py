@@ -1,3 +1,3 @@
 print 'a new file'
-print 'Another conflict'
+print 'Another conflict maybe'
 
