@@ -1,3 +1,3 @@
 print 'a new file'
-print 'changed in master'
+print 'changed in other branch'
 
