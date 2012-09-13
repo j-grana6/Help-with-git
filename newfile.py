@@ -1,2 +1,2 @@
 print 'a new file'
-print 'another conflict'
+print 'another conflict here'
